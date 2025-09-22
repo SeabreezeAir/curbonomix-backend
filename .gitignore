@@ -1,7 +1,10 @@
-﻿node_modules/
-dist/
-**/.venv/
-**/__pycache__/
-**/*.pyc
-**/.env
+﻿.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+.env
+.env.*
 .DS_Store
