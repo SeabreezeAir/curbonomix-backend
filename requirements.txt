@@ -1,6 +1,7 @@
-flask
-flask-cors
-gunicorn
-ezdxf
-reportlab
-python-dotenv
+﻿flask>=3.0
+flask-cors>=4.0
+gunicorn>=22.0
+numpy>=2.1,<3
+pillow>=11.0,<12
+reportlab>=3.6
+ezdxf>=1.4
